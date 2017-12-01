@@ -8,7 +8,7 @@
     "xpreversion": "conventional-changelog  -i CHANGELOG.md -s -r 0",
     "preversion": "echo $(git describe --abbrev=0 --tags)",
     "version": "conventional-changelog  -i CHANGELOG.md -s -r 0 && git add .",
-    "postversion": "git push && git push --tags"
+    "postversion": "echo $(git describe --abbrev=0 --tags) && git push && git push --tags"
   },
   "repository": {
     "type": "git",
