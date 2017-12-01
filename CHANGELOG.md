@@ -1,6 +1,13 @@
+<a name="1.5.12"></a>
+## 1.5.12 (2017-12-01)
+
+
+
+
 <a name="1.5.11"></a>
 ## 1.5.11 (2017-12-01)
 
+* 1.5.11 ([569de94](https://github.com/raidenz/changelog-test/commit/569de94))
 
 
 
