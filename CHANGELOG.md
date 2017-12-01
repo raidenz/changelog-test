@@ -1,3 +1,11 @@
+<a name="1.5.16"></a>
+## 1.5.16 (2017-12-01)
+
+* 1.5.16 ([4d9f835](https://github.com/raidenz/changelog-test/commit/4d9f835))
+* x test ([bebdd1f](https://github.com/raidenz/changelog-test/commit/bebdd1f))
+
+
+
 <a name="1.5.15"></a>
 ## 1.5.15 (2017-12-01)
 
