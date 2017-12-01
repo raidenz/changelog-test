@@ -1,3 +1,11 @@
+<a name="1.5.10"></a>
+## 1.5.10 (2017-12-01)
+
+* . ([6eeb395](https://github.com/raidenz/changelog-test/commit/6eeb395))
+* test ([8d21984](https://github.com/raidenz/changelog-test/commit/8d21984))
+
+
+
 <a name="1.5.9"></a>
 ## 1.5.9 (2017-12-01)
 
