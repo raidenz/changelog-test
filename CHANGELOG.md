@@ -1,3 +1,12 @@
+<a name="1.0.8"></a>
+## 1.0.8 (2017-12-01)
+
+* 1.0.8 ([5487616](https://github.com/raidenz/changelog-test/commit/5487616))
+* readme change ([c9cf5df](https://github.com/raidenz/changelog-test/commit/c9cf5df))
+* x ([9a50c3d](https://github.com/raidenz/changelog-test/commit/9a50c3d))
+
+
+
 <a name="1.0.7"></a>
 ## 1.0.7 (2017-12-01)
 
