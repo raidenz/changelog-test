@@ -1,13 +1,13 @@
 {
   "name": "changelog-test",
-  "version": "1.2.4",
+  "version": "1.2.3",
   "description": "just changelog test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "xpreversion": "conventional-changelog  -i CHANGELOG.md -s -r 0",
     "xversion": "conventional-changelog  -i CHANGELOG.md -s -r 0 && git add .",
-    "version": "conventional-changelog  -i CHANGELOG.md -s -r 0",
+    "version": "conventional-changelog  -i CHANGELOG.md -s -r 0 && git add .",
     "postversion": "git push && git push --tags"
   },
   "repository": {
