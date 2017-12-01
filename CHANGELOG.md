@@ -1,6 +1,15 @@
+<a name="1.5.3"></a>
+## 1.5.3 (2017-12-01)
+
+* 1.5.3 ([120fce0](https://github.com/raidenz/changelog-test/commit/120fce0))
+* move position ([3117719](https://github.com/raidenz/changelog-test/commit/3117719))
+
+
+
 <a name="1.5.2"></a>
 ## 1.5.2 (2017-12-01)
 
+* 1.5.2 ([4f2b7db](https://github.com/raidenz/changelog-test/commit/4f2b7db))
 * ddd ([b6bbe3d](https://github.com/raidenz/changelog-test/commit/b6bbe3d))
 
 
