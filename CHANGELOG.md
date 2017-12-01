@@ -1,3 +1,12 @@
+<a name="1.5.8"></a>
+## 1.5.8 (2017-12-01)
+
+* 1.5.8 ([0a19fc7](https://github.com/raidenz/changelog-test/commit/0a19fc7))
+* fail ([28614a7](https://github.com/raidenz/changelog-test/commit/28614a7))
+* update log to v1.5.7 ([1330eaa](https://github.com/raidenz/changelog-test/commit/1330eaa))
+
+
+
 <a name="1.5.7"></a>
 ## 1.5.7 (2017-12-01)
 
