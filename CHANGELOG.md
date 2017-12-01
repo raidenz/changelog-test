@@ -1,6 +1,13 @@
+<a name="1.2.8"></a>
+## 1.2.8 (2017-12-01)
+
+
+
+
 <a name="1.2.7"></a>
 ## 1.2.7 (2017-12-01)
 
+* 1.2.7 ([424c136](https://github.com/raidenz/changelog-test/commit/424c136))
 
 
 
