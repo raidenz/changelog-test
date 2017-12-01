@@ -1,6 +1,15 @@
+<a name="1.5.15"></a>
+## 1.5.15 (2017-12-01)
+
+* 1.5.15 ([7e83ef9](https://github.com/raidenz/changelog-test/commit/7e83ef9))
+* dont know ([94ada15](https://github.com/raidenz/changelog-test/commit/94ada15))
+
+
+
 <a name="1.5.14"></a>
 ## 1.5.14 (2017-12-01)
 
+* 1.5.14 ([0349d0d](https://github.com/raidenz/changelog-test/commit/0349d0d))
 * pusshhh ([d59ffa8](https://github.com/raidenz/changelog-test/commit/d59ffa8))
 
 
