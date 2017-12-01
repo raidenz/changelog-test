@@ -1,6 +1,7 @@
-<a name="1.1.0"></a>
-# 1.1.0 (2017-12-01)
+<a name="1.2.0"></a>
+# 1.2.0 (2017-12-01)
 
+* update %s changelog ([258dce2](https://github.com/raidenz/changelog-test/commit/258dce2))
 * updating setting ([d7e3c08](https://github.com/raidenz/changelog-test/commit/d7e3c08))
 
 
