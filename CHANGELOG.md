@@ -1,6 +1,14 @@
+<a name="1.5.24"></a>
+## 1.5.24 (2017-12-01)
+
+* other change ([fd9fb04](https://github.com/raidenz/changelog-test/commit/fd9fb04))
+
+
+
 <a name="1.5.23"></a>
 ## 1.5.23 (2017-12-01)
 
+* 1.5.23 ([8b3bf14](https://github.com/raidenz/changelog-test/commit/8b3bf14))
 * changelog in place ([862af77](https://github.com/raidenz/changelog-test/commit/862af77))
 * changelog in place 2 ([2548e64](https://github.com/raidenz/changelog-test/commit/2548e64))
 
