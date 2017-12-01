@@ -1,6 +1,14 @@
+<a name="1.1.0"></a>
+# 1.1.0 (2017-12-01)
+
+* updating setting ([d7e3c08](https://github.com/raidenz/changelog-test/commit/d7e3c08))
+
+
+
 <a name="1.0.22"></a>
 ## 1.0.22 (2017-12-01)
 
+* 1.0.22 ([b505ba0](https://github.com/raidenz/changelog-test/commit/b505ba0))
 
 
 
