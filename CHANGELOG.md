@@ -1,6 +1,13 @@
+<a name="1.0.21"></a>
+## 1.0.21 (2017-12-01)
+
+
+
+
 <a name="1.0.20"></a>
 ## 1.0.20 (2017-12-01)
 
+* 1.0.20 ([c8dae71](https://github.com/raidenz/changelog-test/commit/c8dae71))
 * update ([5aa4489](https://github.com/raidenz/changelog-test/commit/5aa4489))
 
 
