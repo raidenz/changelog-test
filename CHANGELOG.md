@@ -1,4 +1,8 @@
-### 1.0.6 (2017-12-01)
+<a name="1.0.6"></a>
+## 1.0.6 (2017-12-01)
+
+* Release 1.0.6 ([31beb83](https://github.com/raidenz/changelog-test/commit/31beb83))
+
 
 
 <a name="1.0.5"></a>
