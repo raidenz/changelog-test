@@ -1,6 +1,14 @@
+<a name="1.5.13"></a>
+## 1.5.13 (2017-12-01)
+
+* push ([2aa06e5](https://github.com/raidenz/changelog-test/commit/2aa06e5))
+
+
+
 <a name="1.5.12"></a>
 ## 1.5.12 (2017-12-01)
 
+* 1.5.12 ([5d5cfb3](https://github.com/raidenz/changelog-test/commit/5d5cfb3))
 
 
 
