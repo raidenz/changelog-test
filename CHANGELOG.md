@@ -1,7 +1,15 @@
+<a name="1.6.1"></a>
+## 1.6.1 (2017-12-01)
+
+* 1.6.1 ([50ed000](https://github.com/raidenz/changelog-test/commit/50ed000))
+
+
+
 <a name="1.6.0"></a>
 # 1.6.0 (2017-12-01)
 
 * 1.6.0 ([2683fc3](https://github.com/raidenz/changelog-test/commit/2683fc3))
+* change log ([49a5af8](https://github.com/raidenz/changelog-test/commit/49a5af8))
 * tel ([7d9f4ff](https://github.com/raidenz/changelog-test/commit/7d9f4ff))
 
 
