@@ -1,6 +1,15 @@
+<a name="1.5.34"></a>
+## 1.5.34 (2017-12-01)
+
+* 1.5.34 ([eb292d4](https://github.com/raidenz/changelog-test/commit/eb292d4))
+* yees ([9d083ab](https://github.com/raidenz/changelog-test/commit/9d083ab))
+
+
+
 <a name="1.5.33"></a>
 ## 1.5.33 (2017-12-01)
 
+* 1.5.33 ([cd5c0e4](https://github.com/raidenz/changelog-test/commit/cd5c0e4))
 * nok ([767b165](https://github.com/raidenz/changelog-test/commit/767b165))
 
 
