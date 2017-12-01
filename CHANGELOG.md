@@ -1,6 +1,13 @@
+<a name="1.5.29"></a>
+## 1.5.29 (2017-12-01)
+
+
+
+
 <a name="1.5.28"></a>
 ## 1.5.28 (2017-12-01)
 
+* 1.5.28 ([dba6bfe](https://github.com/raidenz/changelog-test/commit/dba6bfe))
 * jump ([f354800](https://github.com/raidenz/changelog-test/commit/f354800))
 * last commit ([f7ad875](https://github.com/raidenz/changelog-test/commit/f7ad875))
 * last commit ([1e158be](https://github.com/raidenz/changelog-test/commit/1e158be))
