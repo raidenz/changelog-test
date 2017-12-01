@@ -1,6 +1,13 @@
+<a name="1.0.12"></a>
+## 1.0.12 (2017-12-01)
+
+
+
+
 <a name="1.0.11"></a>
 ## 1.0.11 (2017-12-01)
 
+* 1.0.11 ([040de08](https://github.com/raidenz/changelog-test/commit/040de08))
 
 
 
