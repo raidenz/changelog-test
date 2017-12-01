@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "preversion": "echo \"prepare log\"",
     "version": "echo $(git describe --abbrev=0 --tags) && conventional-changelog  -i CHANGELOG.md -s -r 0 && git add .",
-    "postversion": "git tag -af $(git describe --abbrev=0 --tags) && git push && git push --tags"
+    "postversion": "git tag -af $(git describe --abbrev=0 --tags) -m \"new val\" && git push && git push --tags"
   },
   "repository": {
     "type": "git",
