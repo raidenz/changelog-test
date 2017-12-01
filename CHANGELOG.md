@@ -1,6 +1,13 @@
+<a name="1.5.32"></a>
+## 1.5.32 (2017-12-01)
+
+
+
+
 <a name="1.5.31"></a>
 ## 1.5.31 (2017-12-01)
 
+* 1.5.31 ([01a8657](https://github.com/raidenz/changelog-test/commit/01a8657))
 * nok ([5b7f8a3](https://github.com/raidenz/changelog-test/commit/5b7f8a3))
 
 
