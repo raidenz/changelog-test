@@ -1,7 +1,15 @@
+<a name="1.5.21"></a>
+## 1.5.21 (2017-12-01)
+
+* 1.5.21 ([a432002](https://github.com/raidenz/changelog-test/commit/a432002))
+
+
+
 <a name="1.5.20"></a>
 ## 1.5.20 (2017-12-01)
 
 * 1.5.20 ([64198a5](https://github.com/raidenz/changelog-test/commit/64198a5))
+* prepare changelog ([68bb5a0](https://github.com/raidenz/changelog-test/commit/68bb5a0))
 * sss ([19fa9ba](https://github.com/raidenz/changelog-test/commit/19fa9ba))
 
 
