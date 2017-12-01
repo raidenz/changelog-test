@@ -1,6 +1,14 @@
+<a name="1.2.4"></a>
+## 1.2.4 (2017-12-01)
+
+* test fix ([d951017](https://github.com/raidenz/changelog-test/commit/d951017))
+
+
+
 <a name="1.2.3"></a>
 ## 1.2.3 (2017-12-01)
 
+* update to 1.2.3 yes ([28a0382](https://github.com/raidenz/changelog-test/commit/28a0382))
 
 
 
