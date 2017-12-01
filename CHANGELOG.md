@@ -1,7 +1,9 @@
-<a name="1.0.18"></a>
-## 1.0.18 (2017-12-01)
+<a name="1.0.19"></a>
+## 1.0.19 (2017-12-01)
 
 * fix this ([dfc2e04](https://github.com/raidenz/changelog-test/commit/dfc2e04))
+* update ([62f572d](https://github.com/raidenz/changelog-test/commit/62f572d))
+* update %s changelog ([efec370](https://github.com/raidenz/changelog-test/commit/efec370))
 * update %s changelog ([f9a2397](https://github.com/raidenz/changelog-test/commit/f9a2397))
 
 
