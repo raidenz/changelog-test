@@ -1,3 +1,11 @@
+<a name="1.0.7"></a>
+## 1.0.7 (2017-12-01)
+
+* 1.0.7 ([d3fd8be](https://github.com/raidenz/changelog-test/commit/d3fd8be))
+* fix test ([62418f4](https://github.com/raidenz/changelog-test/commit/62418f4))
+
+
+
 <a name="1.0.6"></a>
 ## 1.0.6 (2017-12-01)
 
