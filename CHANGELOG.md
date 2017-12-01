@@ -1,3 +1,11 @@
+<a name="1.5.4"></a>
+## 1.5.4 (2017-12-01)
+
+* 1.5.4 ([e36019e](https://github.com/raidenz/changelog-test/commit/e36019e))
+* changelog ([f3eb7eb](https://github.com/raidenz/changelog-test/commit/f3eb7eb))
+
+
+
 <a name="1.5.3"></a>
 ## 1.5.3 (2017-12-01)
 
