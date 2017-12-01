@@ -1,9 +1,16 @@
+<a name="1.2.2"></a>
+## 1.2.2 (2017-12-01)
+
+
+
+
 <a name="1.2.1"></a>
 ## 1.2.1 (2017-12-01)
 
 * fix update ([963358c](https://github.com/raidenz/changelog-test/commit/963358c))
 * update %s changelog ([3d4be49](https://github.com/raidenz/changelog-test/commit/3d4be49))
 * update %s changelog ([258dce2](https://github.com/raidenz/changelog-test/commit/258dce2))
+* update to 1.2.1 ([725154e](https://github.com/raidenz/changelog-test/commit/725154e))
 * updating setting ([d7e3c08](https://github.com/raidenz/changelog-test/commit/d7e3c08))
 
 
