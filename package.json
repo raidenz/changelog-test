@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "xpreversion": "conventional-changelog  -i CHANGELOG.md -s -r 0",
-    "preversion": "echo {1} $(git describe --abbrev=0 --tags) ${git describe --abbrev=0 --tags}",
+    "preversion": "echo $(git describe --abbrev=0 --tags)",
     "version": "conventional-changelog  -i CHANGELOG.md -s -r 0 && git add .",
     "postversion": "git push && git push --tags"
   },
