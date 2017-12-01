@@ -1,7 +1,15 @@
+<a name="1.5.22"></a>
+## 1.5.22 (2017-12-01)
+
+* trial ([8c5774c](https://github.com/raidenz/changelog-test/commit/8c5774c))
+
+
+
 <a name="1.5.21"></a>
 ## 1.5.21 (2017-12-01)
 
 * 1.5.21 ([a432002](https://github.com/raidenz/changelog-test/commit/a432002))
+* prepare changelog ([5f6afbe](https://github.com/raidenz/changelog-test/commit/5f6afbe))
 
 
 
