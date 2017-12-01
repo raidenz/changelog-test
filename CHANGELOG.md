@@ -1,6 +1,15 @@
+<a name="1.5.0"></a>
+# 1.5.0 (2017-12-01)
+
+* some more fix ([d21347b](https://github.com/raidenz/changelog-test/commit/d21347b))
+* x ([40c9b2c](https://github.com/raidenz/changelog-test/commit/40c9b2c))
+
+
+
 <a name="1.4.0"></a>
 # 1.4.0 (2017-12-01)
 
+* 1.4.0 ([50c697b](https://github.com/raidenz/changelog-test/commit/50c697b))
 * prepare new changelog ([367d727](https://github.com/raidenz/changelog-test/commit/367d727))
 
 
