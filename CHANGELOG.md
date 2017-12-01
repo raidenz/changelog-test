@@ -1,6 +1,13 @@
+<a name="1.0.15"></a>
+## 1.0.15 (2017-12-01)
+
+
+
+
 <a name="1.0.14"></a>
 ## 1.0.14 (2017-12-01)
 
+* yes to 1.0.14 ([6f6ff17](https://github.com/raidenz/changelog-test/commit/6f6ff17))
 
 
 
