@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "xpreversion": "conventional-changelog  -i CHANGELOG.md -s -r 0",
     "xversion": "conventional-changelog  -i CHANGELOG.md -s -r 0 && git add .",
-    "version": "conventional-changelog  -i CHANGELOG.md -s -r 0 && git add -A .",
+    "version": "git add . && git commit -m \"prepare new changelog\" && conventional-changelog  -i CHANGELOG.md -s -r 0 && git add -A .",
     "postversion": "git push && git push --tags"
   },
   "repository": {
