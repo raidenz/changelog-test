@@ -1,3 +1,18 @@
+<a name="1.0.10"></a>
+## 1.0.10 (2017-12-01)
+
+* update commit seting ([03e1b92](https://github.com/raidenz/changelog-test/commit/03e1b92))
+
+
+
+<a name="1.0.9"></a>
+## 1.0.9 (2017-12-01)
+
+* 1.0.9 ([7061076](https://github.com/raidenz/changelog-test/commit/7061076))
+* new set ([6eab388](https://github.com/raidenz/changelog-test/commit/6eab388))
+
+
+
 <a name="1.0.8"></a>
 ## 1.0.8 (2017-12-01)
 
