@@ -1,6 +1,13 @@
+<a name="1.0.16"></a>
+## 1.0.16 (2017-12-01)
+
+
+
+
 <a name="1.0.15"></a>
 ## 1.0.15 (2017-12-01)
 
+* update to 1.0.15 ([0363b76](https://github.com/raidenz/changelog-test/commit/0363b76))
 
 
 
