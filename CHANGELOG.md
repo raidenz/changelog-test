@@ -1,6 +1,13 @@
+<a name="1.2.3"></a>
+## 1.2.3 (2017-12-01)
+
+
+
+
 <a name="1.2.2"></a>
 ## 1.2.2 (2017-12-01)
 
+* update to 1.2.2 ([ec7f5c5](https://github.com/raidenz/changelog-test/commit/ec7f5c5))
 
 
 
