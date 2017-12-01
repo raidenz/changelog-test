@@ -1,6 +1,14 @@
+<a name="1.5.2"></a>
+## 1.5.2 (2017-12-01)
+
+* ddd ([b6bbe3d](https://github.com/raidenz/changelog-test/commit/b6bbe3d))
+
+
+
 <a name="1.5.1"></a>
 ## 1.5.1 (2017-12-01)
 
+* 1.5.1 ([aadc771](https://github.com/raidenz/changelog-test/commit/aadc771))
 * yes ([807c014](https://github.com/raidenz/changelog-test/commit/807c014))
 * yes ([5d1634f](https://github.com/raidenz/changelog-test/commit/5d1634f))
 
