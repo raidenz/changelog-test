@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "xpreversion": "conventional-changelog  -i CHANGELOG.md -s -r 0",
-    "version": "conventional-changelog  -i CHANGELOG.md -s -r 0 && git add . && git commit -m \"update %s changelog\"",
+    "xversion": "conventional-changelog  -i CHANGELOG.md -s -r 0 && git add . && git commit -m \"update %s changelog\"",
+    "version": "conventional-changelog  -i CHANGELOG.md -s -r 0 && git add",
     "postversion": "git push && git push --tags"
   },
   "repository": {
