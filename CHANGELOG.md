@@ -1,6 +1,14 @@
+<a name="1.0.20"></a>
+## 1.0.20 (2017-12-01)
+
+* update ([5aa4489](https://github.com/raidenz/changelog-test/commit/5aa4489))
+
+
+
 <a name="1.0.19"></a>
 ## 1.0.19 (2017-12-01)
 
+* 1.0.19 ([23d35cd](https://github.com/raidenz/changelog-test/commit/23d35cd))
 * fix this ([dfc2e04](https://github.com/raidenz/changelog-test/commit/dfc2e04))
 * update ([62f572d](https://github.com/raidenz/changelog-test/commit/62f572d))
 * update %s changelog ([efec370](https://github.com/raidenz/changelog-test/commit/efec370))
