@@ -1,6 +1,15 @@
+<a name="1.5.1"></a>
+## 1.5.1 (2017-12-01)
+
+* yes ([807c014](https://github.com/raidenz/changelog-test/commit/807c014))
+* yes ([5d1634f](https://github.com/raidenz/changelog-test/commit/5d1634f))
+
+
+
 <a name="1.5.0"></a>
 # 1.5.0 (2017-12-01)
 
+* 1.5.0 ([4417c59](https://github.com/raidenz/changelog-test/commit/4417c59))
 * some more fix ([d21347b](https://github.com/raidenz/changelog-test/commit/d21347b))
 * x ([40c9b2c](https://github.com/raidenz/changelog-test/commit/40c9b2c))
 
