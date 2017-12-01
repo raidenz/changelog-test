@@ -1,8 +1,16 @@
+<a name="1.2.6"></a>
+## 1.2.6 (2017-12-01)
+
+* another fix ([2e95338](https://github.com/raidenz/changelog-test/commit/2e95338))
+
+
+
 <a name="1.2.5"></a>
 ## 1.2.5 (2017-12-01)
 
 * other fail ([e0beb52](https://github.com/raidenz/changelog-test/commit/e0beb52))
 * update to 1.2.4 yes ([859474b](https://github.com/raidenz/changelog-test/commit/859474b))
+* update to 1.2.5 yes ([e98780d](https://github.com/raidenz/changelog-test/commit/e98780d))
 * yes ([32f8d44](https://github.com/raidenz/changelog-test/commit/32f8d44))
 * yes ([77ce11d](https://github.com/raidenz/changelog-test/commit/77ce11d))
 

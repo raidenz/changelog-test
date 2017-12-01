@@ -1,6 +1,6 @@
 {
   "name": "changelog-test",
-  "version": "1.2.5",
+  "version": "1.2.6",
   "description": "just changelog test",
   "main": "index.js",
   "scripts": {
