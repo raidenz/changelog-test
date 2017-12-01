@@ -1,7 +1,14 @@
+<a name="1.2.7"></a>
+## 1.2.7 (2017-12-01)
+
+
+
+
 <a name="1.2.6"></a>
 ## 1.2.6 (2017-12-01)
 
 * another fix ([2e95338](https://github.com/raidenz/changelog-test/commit/2e95338))
+* update to 1.2.6 yes ([dd3ac1b](https://github.com/raidenz/changelog-test/commit/dd3ac1b))
 
 
 
