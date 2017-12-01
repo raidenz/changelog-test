@@ -1,3 +1,13 @@
+<a name="1.2.5"></a>
+## 1.2.5 (2017-12-01)
+
+* other fail ([e0beb52](https://github.com/raidenz/changelog-test/commit/e0beb52))
+* update to 1.2.4 yes ([859474b](https://github.com/raidenz/changelog-test/commit/859474b))
+* yes ([32f8d44](https://github.com/raidenz/changelog-test/commit/32f8d44))
+* yes ([77ce11d](https://github.com/raidenz/changelog-test/commit/77ce11d))
+
+
+
 <a name="1.2.4"></a>
 ## 1.2.4 (2017-12-01)
 
