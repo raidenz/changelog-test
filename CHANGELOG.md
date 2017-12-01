@@ -1,6 +1,14 @@
+<a name="1.2.12"></a>
+## 1.2.12 (2017-12-01)
+
+* prepare new changelog ([73de037](https://github.com/raidenz/changelog-test/commit/73de037))
+
+
+
 <a name="1.2.11"></a>
 ## 1.2.11 (2017-12-01)
 
+* 1.2.11 ([2cc8ce4](https://github.com/raidenz/changelog-test/commit/2cc8ce4))
 * prepare new changelog ([f40b374](https://github.com/raidenz/changelog-test/commit/f40b374))
 
 
