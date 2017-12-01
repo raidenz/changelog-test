@@ -1,3 +1,11 @@
+<a name="1.5.35"></a>
+## 1.5.35 (2017-12-01)
+
+* 1.5.35 ([4f998c6](https://github.com/raidenz/changelog-test/commit/4f998c6))
+* nos ([7f90db0](https://github.com/raidenz/changelog-test/commit/7f90db0))
+
+
+
 <a name="1.5.34"></a>
 ## 1.5.34 (2017-12-01)
 
