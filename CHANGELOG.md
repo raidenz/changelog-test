@@ -1,6 +1,7 @@
-<a name="1.5.25"></a>
-## 1.5.25 (2017-12-01)
+<a name="1.5.26"></a>
+## 1.5.26 (2017-12-01)
 
+* last commit ([a196861](https://github.com/raidenz/changelog-test/commit/a196861))
 * last commit ([0c1d623](https://github.com/raidenz/changelog-test/commit/0c1d623))
 * other change ([fd9fb04](https://github.com/raidenz/changelog-test/commit/fd9fb04))
 
