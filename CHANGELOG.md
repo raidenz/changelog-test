@@ -1,6 +1,8 @@
-<a name="1.5.27"></a>
-## 1.5.27 (2017-12-01)
+<a name="1.5.28"></a>
+## 1.5.28 (2017-12-01)
 
+* jump ([f354800](https://github.com/raidenz/changelog-test/commit/f354800))
+* last commit ([f7ad875](https://github.com/raidenz/changelog-test/commit/f7ad875))
 * last commit ([1e158be](https://github.com/raidenz/changelog-test/commit/1e158be))
 * last commit ([a196861](https://github.com/raidenz/changelog-test/commit/a196861))
 * last commit ([0c1d623](https://github.com/raidenz/changelog-test/commit/0c1d623))
