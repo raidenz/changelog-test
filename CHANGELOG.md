@@ -1,6 +1,14 @@
+<a name="1.0.17"></a>
+## 1.0.17 (2017-12-01)
+
+* fix this ([dfc2e04](https://github.com/raidenz/changelog-test/commit/dfc2e04))
+
+
+
 <a name="1.0.16"></a>
 ## 1.0.16 (2017-12-01)
 
+* update to 1.0.16 ([fc3bec7](https://github.com/raidenz/changelog-test/commit/fc3bec7))
 
 
 
