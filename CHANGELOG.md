@@ -2,6 +2,7 @@
 ## 1.2.4 (2017-12-01)
 
 * test fix ([d951017](https://github.com/raidenz/changelog-test/commit/d951017))
+* update to 1.2.4 yes ([2feb91b](https://github.com/raidenz/changelog-test/commit/2feb91b))
 
 
 
