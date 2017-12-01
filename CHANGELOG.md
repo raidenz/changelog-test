@@ -1,6 +1,15 @@
+<a name="1.2.9"></a>
+## 1.2.9 (2017-12-01)
+
+* prepare new changelog ([f46fcd2](https://github.com/raidenz/changelog-test/commit/f46fcd2))
+* still fail ([1babe75](https://github.com/raidenz/changelog-test/commit/1babe75))
+
+
+
 <a name="1.2.8"></a>
 ## 1.2.8 (2017-12-01)
 
+* 1.2.8 ([32eaf5c](https://github.com/raidenz/changelog-test/commit/32eaf5c))
 
 
 
