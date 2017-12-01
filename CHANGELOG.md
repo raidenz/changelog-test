@@ -1,6 +1,14 @@
+<a name="1.4.0"></a>
+# 1.4.0 (2017-12-01)
+
+* prepare new changelog ([367d727](https://github.com/raidenz/changelog-test/commit/367d727))
+
+
+
 <a name="1.3.0"></a>
 # 1.3.0 (2017-12-01)
 
+* 1.3.0 ([d8a8122](https://github.com/raidenz/changelog-test/commit/d8a8122))
 * new fail ([ba18917](https://github.com/raidenz/changelog-test/commit/ba18917))
 * prepare new changelog ([52f141c](https://github.com/raidenz/changelog-test/commit/52f141c))
 
