@@ -1,7 +1,16 @@
+<a name="1.5.18"></a>
+## 1.5.18 (2017-12-01)
+
+* 1.5.18 ([606cca8](https://github.com/raidenz/changelog-test/commit/606cca8))
+* x fail ([735d02c](https://github.com/raidenz/changelog-test/commit/735d02c))
+
+
+
 <a name="1.5.17"></a>
 ## 1.5.17 (2017-12-01)
 
 * 1.5.17 ([f02ed3d](https://github.com/raidenz/changelog-test/commit/f02ed3d))
+* prepare changelog ([a3e1734](https://github.com/raidenz/changelog-test/commit/a3e1734))
 
 
 
