@@ -1,3 +1,11 @@
+<a name="1.5.6"></a>
+## 1.5.6 (2017-12-01)
+
+* 1.5.6 ([d2936a1](https://github.com/raidenz/changelog-test/commit/d2936a1))
+* update log to v1.5.5 ([c2b7a03](https://github.com/raidenz/changelog-test/commit/c2b7a03))
+
+
+
 <a name="1.5.5"></a>
 ## 1.5.5 (2017-12-01)
 
