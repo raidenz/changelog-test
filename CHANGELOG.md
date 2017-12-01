@@ -1,6 +1,15 @@
-<a name="1.5.22"></a>
-## 1.5.22 (2017-12-01)
+<a name="1.5.23"></a>
+## 1.5.23 (2017-12-01)
 
+* changelog in place ([862af77](https://github.com/raidenz/changelog-test/commit/862af77))
+* changelog in place 2 ([2548e64](https://github.com/raidenz/changelog-test/commit/2548e64))
+
+
+
+<a name="v1.5.22"></a>
+## v1.5.22 (2017-12-01)
+
+* 1.5.22 ([36c05a9](https://github.com/raidenz/changelog-test/commit/36c05a9))
 * trial ([8c5774c](https://github.com/raidenz/changelog-test/commit/8c5774c))
 
 
