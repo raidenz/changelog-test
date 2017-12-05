@@ -1,10 +1,17 @@
 # changelog-test
 just changelog test
 
-# test changelog
+## install this tool locally
+```
+npm install -g conventional-changelog
+```
 
-# more change
+## copy it to package.json
+```
+"postversion": "conventional-changelog  -i CHANGELOG.md -s -r 0 && git add . && git commit -m \"change log\" && git tag -af $(git describe --abbrev=0 --tags) -m \"$(git describe --abbrev=0 --tags)\" && git push && git push --tags"
+```
 
-# readme change
-
-# check ver $(git describe --abbrev=0 --tags)
+## You are ready to use npm version
+```
+npm version patch // minor, major
+```
